@@ -4,9 +4,9 @@ title: First post
 tags: [programming]
 ---
 
-First post.
+First post... testing
 
-```csharp
+{% highlight csharp linenos %}
 try
 {
     var width = screen.Width;
@@ -25,4 +25,4 @@ catch (Exception ex)
     Log.Debug(ex, "Error decoding DirectX pixels: {0}");
     return null;
 }
-```
+{% endhighlight %}
