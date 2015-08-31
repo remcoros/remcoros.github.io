@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rogue
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Remco Ros
+tagline:          'Unique problems require custom solutions'
+description:      'My personal blog.'
+url:              http://remcoros.github.io
+baseurl:          /
+
+author:
+  name:           'Remco Ros'
+  url:            https://twitter.com/remcoros
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/remcoros/remcoros.github.io
+  profile:        https://github.com/remcoros
