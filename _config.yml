@@ -5,9 +5,11 @@ kramdown:
   input: GFM
   syntax_highlighter: pygments 
 
+gems: 
+  - jekyll-paginate
+  
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Remco Ros
