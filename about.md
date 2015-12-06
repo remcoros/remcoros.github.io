@@ -4,27 +4,59 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! This is my personal website / blog. Read on for some info about the setup of this website and a list of some of my projects. 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/remcoros/Home/issues/new) or [ask me on Twitter](https://twitter.com/remcoros).
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+Thanks for reading! 
 
 ## Setup
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
+* Built using [Jekyll](http://jekyllrb.com), based on the [Hyde theme](http://hyde.getpoole.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+* Coded with [Visual Studio Code](https://code.visualstudio.com/), an amazing code editor
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+---
 
-Thanks for reading!
+## Projects
+
+These are some of my projects, all original work.
+
+### Forbidden Color
+
+A simple, annoying, but fun mobile game. Developed using phonegap. 
+
+- Website: [forbiddencolor.github.io](http://forbiddencolor.github.io)
+- Blog tag: [forbiddencolor](/tag/forbiddencolor/)
+- Source: Not (yet) public
+
+### Start any shell 
+
+Visual Studio Code plugin to start any shell from the command palette.
+
+- Website: [marketplace.visualstudio.com/items/remcoros.startanyshell](http://marketplace.visualstudio.com/items/remcoros.startanyshell)  
+- Blog tag: [startanyshell](/tag/startanyshell/)
+- Source: [github.com/remcoros/vscode-startanyshell](https://github.com/remcoros/vscode-startanyshell)
+
+### HearthstoneTracker
+
+A desktop application which tracks and keeps a records of played Hearthstone games. An online card-game from Blizzard.
+
+- Website: [hearthstonetracker.com](http://hearthstonetracker.com)  
+- Blog tag: [hearthstonetracker](/tag/hearthstonetracker/)
+- Source: [github.com/hearthstonetracker/hearthstonetracker](https://github.com/hearthstonetracker/hearthstonetracker)
+
+### InspectB.in
+
+InspectR, Inspect remote http requests. Based on the idea RequestB.in. 
+
+- Website: [inspectb.in](http://inspectb.in/)  
+- Source: [github.com/remcoros/InspectR](https://github.com/remcoros/InspectR)
+
+### ko.pager
+
+A knockout paging extension I created for some projects.
+
+- Website: [remcoros.github.io/ko.pager/example.html](http://remcoros.github.io/ko.pager/example.html)  
+- Source: [github.com/remcoros/ko.pager](https://github.com/remcoros/ko.pager)

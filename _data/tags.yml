@@ -6,3 +6,7 @@ hearthstonetracker:
   name: HearthstoneTracker
 work:
   name: Work
+forbiddencolor:
+  name: Forbidden Color
+startanyshell:
+  name: Start any shell

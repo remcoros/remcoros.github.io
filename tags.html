@@ -10,8 +10,13 @@ title: Tags
         <h3><a href="/tag/{{ tagslug }}/">{{ tag.name }}</a></h3>
         <div>
         {% for post in site.tags[tagslug] %}
-            <a href="{{ post.url }}">{{ post.title }}</a>
+            {{ post.date | date_to_string }} - <a href="{{ post.url }}">{{ post.title }}</a>
         {% endfor %}
+        </div>
+    {% else %}
+        <h3>{{ tag.name }}</h3>
+        <div>
+          No posts.
         </div>
     {% endif %} 
 {% endfor %}
